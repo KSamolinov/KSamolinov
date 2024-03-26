@@ -8,8 +8,6 @@
 
 В настоящий момент в поисках работы в данном направлении
 
-Skills: Python, SQL
-
 
   <div id="badges">
     <a href="https://t.me/noran_msk" target="_blank">
